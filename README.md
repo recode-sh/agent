@@ -55,7 +55,7 @@ The `SSH server` lets you access your development environment via `SSH` without 
 The `gRPC server`, on the other hand, is used to enable communication with the [Recode CLI](https://github.com/recode-sh/cli) (via `SSH`, using the OpenSSH's `Unix domain socket forwarding` feature).
 
 <p align="center">
-  <img src="assets/infra.png" alt="infra" />
+  <img src="https://user-images.githubusercontent.com/1233275/172016265-becc3ab0-dbd0-48d2-8623-2bd1dab9873b.png" alt="infra" />
 </p>
 
 ### SSH Server
